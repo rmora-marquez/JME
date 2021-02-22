@@ -1,0 +1,12 @@
+MIDlet-1: HelloMidlet, , jme.helloworld.HelloMidlet
+MIDlet-2: LifeCycleMidlet, , jme.lifecycle.LifeCycleMidlet
+MIDlet-3: TextBoxMidlet, , jme.uialtonivel.TextBoxMidlet
+MIDlet-4: NumberGuessMidlet, , jme.uialtonivel.NumberGuessMidlet
+MIDlet-5: FormTextFieldMidlet, , jme.uialtonivel.FormTextFieldMidlet
+MIDlet-Jar-Size: 8103
+MIDlet-Jar-URL: JME.jar
+MIDlet-Name: JME
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

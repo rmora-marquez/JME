@@ -1,0 +1,10 @@
+MIDlet-2: LifeCycleTest, , edu.ieu.jme.LifeCycleTest
+MIDlet-3: TextBoxMidlet, , edu.ieu.jme.TextBoxMidlet
+MIDlet-4: NumberGuessMidlet, , edu.ieu.jme.NumberGuessMidlet
+MIDlet-5: FormTextFieldMidlet, , edu.ieu.jme.FormTextFieldMidlet
+MIDlet-1: HolaMidlet, , edu.ieu.jme.HolaMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: jme2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
